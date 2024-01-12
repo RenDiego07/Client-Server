@@ -1,0 +1,5 @@
+el encabezado csapp.h tiene muchas librerias
+
+y csapp.c tiene muchas de sus implementaciones
+
+
